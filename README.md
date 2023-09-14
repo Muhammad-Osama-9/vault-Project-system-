@@ -7,6 +7,8 @@
 * LCD 16x2
 * Buzzer
 * LED
+## Project Schematic 
+![image](/The_Vault_embedded_project[1].jpg)
 ## Project FlowChart  
 ![alt Text](/flow.jpg)
 ### Team Members 
