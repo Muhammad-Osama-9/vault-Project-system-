@@ -1,6 +1,6 @@
 # Vault System 
 ## Description
-> valult system using ATMEGA 32 Micro Controller with editable password and abillity to Change Password and store in Microcontrooler internal EEPROOM 
+> valult system using ATMEGA 32 Micro Controller with editable password\Abillity to Change Password and store in Microcontrooler internal EEPROOM \by using keypad as input device and LCD in 8-bit Mode
 ## ***Project Componnent***
 * ATMEGA 32
 * Keypad 4x3
